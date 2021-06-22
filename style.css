@@ -1,0 +1,60 @@
+body
+{
+  color: white;
+  background-color: springgreen;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.result_emotion_name ,.result_emotion_name2  
+{
+  color: black;
+  font-size: 30px;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+
+.camera_div label{
+
+
+font-size: 25px;
+}
+
+.result_div label{
+
+  font-size: 25px;
+}
+
+label{
+
+  font-size: 25px;
+  color: rebeccapurple;
+}
+
+.heading{
+
+  font-size: 30px;
+  letter-spacing: 5px;
+}
+
+
+
+
+.label1{
+
+  background-color:violet;
+}
